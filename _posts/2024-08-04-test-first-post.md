@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Mon premier post
-subtitle: test
+title: Les bonnes pratiques en C.
+subtitle: Ce qu'il faut faire et ne pas faire.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/c.png
 share-img: /assets/img/path.jpg
 tags: [test]
 author: Sébastien Dubuc
 ---
 
-Mon premier post sur ce blog. Il sera supprimé dans un futur proche.
